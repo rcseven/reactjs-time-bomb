@@ -1,8 +1,10 @@
+import Bomb from "./Bomb";
+
 function App() {
   return (
-    <>
-      <h1 className="text-3xl font-bold underline">Hello world!</h1>
-    </>
+    <main className="relative grid place-items-center w-screen h-screen bg-gray-200 -z-20">
+      <Bomb />
+    </main>
   );
 }
 
