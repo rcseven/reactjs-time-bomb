@@ -1,5 +1,5 @@
-import RedWire from "./assets/RedWire.svg";
-import BlueWire from "./assets/BlueWire.svg";
+import RedWire from "../assets/RedWire.svg";
+import BlueWire from "../assets/BlueWire.svg";
 
 const BombLayout = () => {
   return (

@@ -1,4 +1,4 @@
-import Bomb from "./Bomb";
+import Bomb from "./components/Bomb";
 
 function App() {
   return (

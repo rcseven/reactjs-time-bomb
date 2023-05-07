@@ -1,8 +1,8 @@
 import ScreenTimerDisplay from "./ScreenTimerDisplay";
 import SettingButtons from "./SettingButtons";
-import { TimeConrtoller } from "./TimeController";
-import { useSubject } from "./useSubjectHook";
-import explosion from "./assets/explosion.gif";
+import { TimeConrtoller } from "../TimeController";
+import { useSubject } from "../hooks/useSubjectHook";
+import explosion from "../assets/explosion.gif";
 
 const controller = new TimeConrtoller(5);
 

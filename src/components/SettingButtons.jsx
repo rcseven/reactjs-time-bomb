@@ -1,5 +1,5 @@
 import SquareButton from "./SquareButton";
-import { useSubject } from "./useSubjectHook";
+import { useSubject } from "../hooks/useSubjectHook";
 
 const SettingButtons = ({ controller }) => {
   const [mode, setMode] = useSubject(controller.set_mode);

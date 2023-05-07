@@ -1,7 +1,7 @@
 import CounterButtons from "./CounterButtons";
 
 import Timer from "./Timer";
-import { useSubject } from "./useSubjectHook";
+import { useSubject } from "../hooks/useSubjectHook";
 
 const ScreenTimerDisplay = ({ controller }) => {
   const [time, setTime] = useSubject(controller.timer);
