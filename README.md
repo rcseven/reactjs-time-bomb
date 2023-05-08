@@ -4,4 +4,4 @@
 https://rcseven-time-bomb.pages.dev/
 
 
-### Disclaimer: This project is still not responsive for all screen size... (2xl and up only for the mean time)
+### Disclaimer: This project is still not responsive for small screen devices
